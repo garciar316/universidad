@@ -1,4 +1,4 @@
-package com.reto.universidad.facultad.values;
+package com.reto.universidad.programa.values;
 
 import co.com.sofka.domain.generic.ValueObject;
 
