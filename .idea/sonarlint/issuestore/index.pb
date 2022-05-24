@@ -21,16 +21,12 @@ u
 Edomain/src/main/java/com/reto/universidad/facultad/entity/Decano.java,2\2\22c8ef0b88bd1b832e60223afa8ca9d81557d422
 {
 Kdomain/src/main/java/com/reto/universidad/facultad/events/DecanoCreado.java,5\c\5c64fba5d569ba51f21c9f8c1e46c8789ed6c30f
-}
-Mdomain/src/main/java/com/reto/universidad/facultad/events/FacultadCreada.java,1\9\19cc00e897551c531789d52adc5c62b3a65b781f
 {
 Kdomain/src/main/java/com/reto/universidad/programa/values/Acreditacion.java,a\f\afe81a08c60bb93b72eb7980a4efc990793ef164
 z
 Jdomain/src/main/java/com/reto/universidad/facultad/values/id/DecanoId.java,5\f\5f3d2c617ea514c8580ae3973373fb77ce519d38
 w
 Gdomain/src/main/java/com/reto/universidad/programa/values/Duracion.java,a\b\ab309e14049fd7ba12a038eddd80b4ab883042df
-p
-@domain/src/main/java/com/reto/universidad/facultad/Facultad.java,1\7\17f2e8cd7783c68c635c7f2fdd88143adf139cdb
 {
 Kdomain/src/main/java/com/reto/universidad/facultad/FacultadEventChange.java,2\7\27b0c02646f2fbaa27b08026e0b8ded5a6c937f4
 x
