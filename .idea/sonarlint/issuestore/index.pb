@@ -15,8 +15,6 @@ w
 Gdomain/src/main/java/com/reto/universidad/facultad/values/Semestre.java,b\1\b181c0f234caa495415a0b473615481afebc2d75
 u
 Edomain/src/main/java/com/reto/universidad/facultad/values/Vision.java,f\9\f97c746ece3c92c70b2ffa8e50cb32b928ec9395
-|
-Ldomain/src/main/java/com/reto/universidad/facultad/values/id/FacultadId.java,c\f\cf39aa2ffbfa8b67f1c9bca5b259b10e8e13bf92
 u
 Edomain/src/main/java/com/reto/universidad/facultad/entity/Decano.java,2\2\22c8ef0b88bd1b832e60223afa8ca9d81557d422
 {
@@ -49,3 +47,10 @@ Mdomain/src/main/java/com/reto/universidad/programa/events/ProgramaCreado.java,
 Ldomain/src/main/java/com/reto/universidad/programa/values/id/ProgramaId.java,9\d\9db62c0d42f329b737af6879adf8cfc45cd9d3cb
 {
 Kdomain/src/main/java/com/reto/universidad/programa/ProgramaEventChange.java,2\a\2a402abad9d53633523b755f0d91e10b4688f26c
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+>
+domain/pom.xml,8\b\8b11330a6810846535e4b5ba2024ccfcee112862
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
